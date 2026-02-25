@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [심기준]
+# Hi there 👋 I'm 심기준
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50" />
@@ -8,7 +8,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -27,14 +27,11 @@
 - 💻 **Problem Solving**: 효율적인 알고리즘과 깨끗한 코드(Clean Code)를 지향합니다.
 
 ### 💬 More About Me
-- 💬 **Ask me about**: `Game Logic`, `Unity`
-- 📫 **Contact**: 이메일 : ghgh10288@naver.com, [포트폴리오 바로가기](https://portfolio-five-weld-91.vercel.app)
-- ⚡ **Fun fact**: 
+- 💬 **Ask me about**: `Game Logic`, `Unity`, `C/C++`
+- 📫 **Contact**: [ghgh10288@naver.com](mailto:ghgh10288@naver.com) | [포트폴리오 바로가기](https://portfolio-five-weld-91.vercel.app)
+- ⚡ **Fun fact**: 어려운 로직을 해결했을 때의 쾌감을 즐깁니다!
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=potato1028&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potato1028&layout=compact&theme=radical" />
-</p>
+[![kijune sim's GitHub stats](https://github-readme-stats.vercel.app/api?username=potato1028)](https://github.com/potato1028/github-readme-stats)
