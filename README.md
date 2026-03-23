@@ -35,3 +35,6 @@
 
 ### 📊 GitHub Stats
 [![kijune sim's GitHub stats](https://github-readme-stats.vercel.app/api?username=potato1028)](https://github.com/potato1028/github-readme-stats)
+
+### Solved.ac
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghgh1028)](https://solved.ac/ghgh1028)
